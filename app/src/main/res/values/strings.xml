@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InstagramCloneParseExample</string>
+    <string name="usernametext">usernameText</string>
+    <string name="todo">TODO</string>
+    <string name="commenttext">commenttext</string>
+</resources>
